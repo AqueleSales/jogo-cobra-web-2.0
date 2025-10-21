@@ -68,7 +68,7 @@ TEXTO_CREDITOS = [
     "Desenvolvido por: Geovani Braz Dantas Junior",
     "Design: Geovani Braz Dantas Junior",
     "Agradecimentos Especiais:",
-    "Rafaela Azevedo pela orientacao do projeto."
+    "Rafaela Azevedo pela orientação do projeto."
 ]
 
 # --- Dicionários Globais para Recursos ---
@@ -893,4 +893,5 @@ async def main():
     sys.exit()
 
 if __name__ == "__main__":
+
     asyncio.run(main())
